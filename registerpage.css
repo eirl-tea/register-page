@@ -131,13 +131,14 @@ input[type="password"] {
 
 .signIn {
     margin-top: 20px;
-    color: #ccc;
+    color: #cdcdcd;
     font-size: 14px;
 }
 
 .signIn a {
     text-decoration: underline;
     font-weight: bold;
+    color: #cdcdcd;
 }
 
 @media (max-width: 480px) {
