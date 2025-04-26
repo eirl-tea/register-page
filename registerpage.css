@@ -131,12 +131,11 @@ input[type="password"] {
 
 .signIn {
     margin-top: 20px;
-    color: #555;
+    color: #ccc;
     font-size: 14px;
 }
 
 .signIn a {
-    color: #333;
     text-decoration: underline;
     font-weight: bold;
 }
